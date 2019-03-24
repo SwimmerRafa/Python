@@ -1,10 +1,8 @@
 # Autores: 
-#          Omar Cruz Flores A01379963
 #          Rafael Moreno Cañas A01378916 
 #
 # Desliza números.
 #
-# 5 de mayo, 2017.
 from os.path import exists
 from time import strftime
 import random
